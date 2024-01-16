@@ -1,0 +1,19 @@
+# 会点点启动路径
+hdd_app_path: C:\Program Files (x86)\Quanneng\Meeting\Meeting.exe
+# winappdriver启动路径
+#WinAppDriver_path: C:\Program Files (x86)\Windows Application Driver\WinAppDriver.exe
+# appium启动路径
+#Appium_path: C:\Program Files\Appium Server GUI\Appium Server GUI.exe
+# 测试机1 appium接收请求地址
+#first_driver_path: http://localhost:4724/wd/hub
+first_driver_path: http://192.168.122.130:4724/
+# 测试机2 appium接受请求地址
+sencond_driver_path: http://192.168.122.128:4724/
+# 截图保存路径
+screenshot_path: D:\Pic
+#
+appiumServerURL: http://localhost:4724/
+# 测试账号1
+test_1_account: 17630941000
+# 测试账号2
+test_2_account: 17630941001

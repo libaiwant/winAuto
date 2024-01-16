@@ -1,0 +1,1 @@
+{"uuid":"33f19ee4-b773-4d44-bd85-1cba0cc4291b","name":"WindowsUIAuto1","children":["9c228a35-83f7-451a-ac99-d9fc37018970"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1691639893530,"stop":1691639956800}],"afters":[],"start":1691639893514,"stop":1691639960995}

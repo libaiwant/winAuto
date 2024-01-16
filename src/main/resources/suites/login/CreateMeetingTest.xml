@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="创建会议测试">
+    <test name="测试1">
+        <classes>
+            <class name="com.qnsz.windowsuiauto.testcase.login.CreateMeetingTest"/>
+<!--            <class name="com.qnsz.windowsuiauto.testcase.login.InviteFrequentlyUsedContactsTest"/>-->
+<!--            <class name="com.qnsz.windowsuiauto.testcase.login.StartPage"/>-->
+        </classes>
+    </test>
+</suite>

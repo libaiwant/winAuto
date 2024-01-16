@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 10 10:20:17 CST 2023","Thu Aug 10 10:20:29 CST 2023","11614","Default Suite","WindowsUIAuto","com.qnsz.windowsuiauto.testcase.login.Test1","com.qnsz.windowsuiauto.testcase.login.Test1","test1","打开会点点","打开测试机1、2的会点点"
